@@ -1,0 +1,29 @@
+/* .container2{
+    width: 80%;
+    padding: 17px 7px 17px 12px;
+    margin-left: 8%;
+    margin-top: 3%;
+} */
+
+.container2 {
+    width: 82%;
+    margin: 2% 0% 0% 8%; 
+    padding: 4px 0px 3px 0px;
+    color: black;
+}
+.container2 ul{
+    list-style-type: none;
+    width: 90%;
+}
+/* .container2 li{
+    
+    border: 1px solid black;
+    width: 10%;
+} */
+
+/* .container2 li{
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 5px 3px;
+    list-style: none;
+} */

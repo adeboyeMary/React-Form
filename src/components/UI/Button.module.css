@@ -1,0 +1,17 @@
+.button{
+    background-color: purple;
+    color: rgb(241 192 241);
+    border: 1px solid purple;
+    padding: 0.25rem 1rem;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.button:hover,
+.button:active {
+  background: #741188;
+  border-color: #741188;
+}
+
+.button:focus {
+    outline: none;
+  }
